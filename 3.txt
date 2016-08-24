@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello world
 add some words here for test!
+=======
+hello world！
+this is a file for test!
+>>>>>>> dev
+haha
